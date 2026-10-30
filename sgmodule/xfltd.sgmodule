@@ -1,0 +1,8 @@
+#!name=XFLTD DNS
+#!desc=XFLTD DNS
+
+[Host]
+*.csnau.cn = server:https://cn.ali-oss.cn:44443/dns-query/6dafe708-d9d6-48cc-a768-e6ed3018a9ec
+*.csnau.cn = server:https://hk.ali-oss.cn:44443/dns-query/6dafe708-d9d6-48cc-a768-e6ed3018a9ec
+*.cnrcz.cn = server:https://cn.ali-oss.cn:44443/dns-query/6dafe708-d9d6-48cc-a768-e6ed3018a9ec
+*.cnrcz.cn = server:https://hk.ali-oss.cn:44443/dns-query/6dafe708-d9d6-48cc-a768-e6ed3018a9ec
